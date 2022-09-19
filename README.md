@@ -3,8 +3,8 @@ Esse repositório será exclusivamente utilizado para o desenvolvimento do proje
 
 Equipe:
   
-  Gustavo Lopes Feitosa
-  Daniel Leite Costa Silva
-  Maycol Douglas Gomes
-  Rubens Matheus
+  Gustavo Lopes Feitosa,
+  Daniel Leite Costa Silva,
+  Maycol Douglas Gomes,
+  Rubens Matheus,
   Gustavo Manoel Dias Polli
