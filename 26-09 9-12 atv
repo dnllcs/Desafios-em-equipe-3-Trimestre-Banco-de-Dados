@@ -1,0 +1,16 @@
+#12.
+SELECT marca.nome, produto.nome
+FROM produto, marca
+WHERE produto.marca_id = marca.id AND marca.nome = "COCA-COLA";
+#11.
+SELECT produto.nome, produto.preco_venda, unidade_medida.nome
+FROM produto, unidade_medida
+WHERE produto.unidade_medida_id = unidade_medida.id;
+#10.
+SELECT venda.id, funcionario.nome
+FROM funcionario, venda
+WHERE venda.funcionario_id = funcionario.id;
+#9
+SELECT estado.nome, cliente.nome, cidade.nome
+FROM estado, cidade, cliente
+WHERE cidade.id = cliente.cidade_id AND cidade.estado_id = estado.id AND estado.ativo = 'S';
